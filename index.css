@@ -34,8 +34,7 @@ footer {
 }
 
 .item {
-  margin: 0 auto;
-
+  justify-content: center;
   height: 10vh;
   width: 92vw;
   margin: 5px;
